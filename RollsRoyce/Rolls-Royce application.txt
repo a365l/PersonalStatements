@@ -1,22 +1,22 @@
-What interests you most about taking part in the Discover: Behind the Scenes experience at Rolls-Royce? Think about what are you most looking forward to learning or exploring during your time with us. [Max 300 words]
+What interests you most about taking part in the Discover: Behind the Scenes experience at Rolls-Royce? Think about what are you most looking forward to learning or exploring during your time with us. [Max 300 words]*
 What interests me most is gaining insight into how multiple people can combine their ideas efficiently and work together to form one cohesive product or solution. I have relatively extensive experience brainstorming for my self-directed engineering projects, however the ability to work in a group of hundreds to thousands of employees is something I've never experienced and I find it hard to grasp how coordination on that scale actually works. Specifically, I'd like to gain insight into how a huge team is split into smaller ones, how they agree on requirements, and how a design decision travels from one department to another, especially behind something as complex as a jet engine, where no one person could ever hold the whole design in their head. My CREST Gold quad-copter has shown me how quickly decisions in one area ripple into others - changing the motor affects the battery, the frame and the flight controller. If that's hard to manage alone, I'm perplexed by how Rolls-Royce manages it across thousands of people. I want to see these methods first hand so I can bring a more structured, professional approach back into my own projects and understand the kind of engineer I'd need to become to contribute at that scale.
-What are three skills you'd like to improve during this experience, and how do you think Rolls-Royce can help you develop them? [Max 300 words]
-The first skill i'd like to develop is technical communication. Through tutoring GCSE Maths and Physics, I've learnt that understanding something and explaining it clearly are very different skills. The team project and final presentation would push me to explain engineering ideas to an audience, and I'd value feedback from Rolls-Royce on how to do that concisely.
+What are three skills you’d like to improve during this experience, and how do you think Rolls-Royce can help you develop them? [Max 300 words]*
+The first skill i’d like to develop is technical communication. Through tutoring GCSE Maths and Physics, I’ve learnt that understanding something and explaining it clearly are very different skills. The team project and final presentation would push me to explain engineering ideas to an audience, and I’d value feedback from Rolls-Royce on how to do that concisely.
 
-The second is structured problem solving. When diagnosing faults on the electric motorcycle I built, I relied on persistence and trial and error. It worked but it wasn't as efficient as it could have been. The hands on engineering activities would show me how Rolls-Royce engineers dissect problems down methodically.
+The second is structured problem solving. When diagnosing faults on the electric motorcycle I built, I relied on persistence and trial and error. It worked but it wasn’t as efficient as it could have been. The hands on engineering activities would show me how Rolls-Royce engineers dissect problems down methodically. 
 
 Thirdly, the networking sessions and Q&As with current apprentices would let me practice asking good questions in a professional setting, which would carry over to apprenticeship interviews and beyond.
 
-Rolls-Royce is the ideal place to build all three as its work demands a level of rigour and teamwork I cannot recreate in my own workshop.
-How do you think this experience at Rolls-Royce could help you with your future goals—whether it's a job, an apprenticeship, university, or something else? [Max 300 words]
+Rolls-Royce is the ideal place to build all three as its work demands a level of rigour and teamwork I  cannot recreate in my own workshop.
+How do you think this experience at Rolls-Royce could help you with your future goals—whether it’s a job, an apprenticeship, university, or something else? [Max 300 words]*
 Last year, I set my sights on engineering - specifically aerospace engineering - however, I'm still deciding between a degree apprenticeship and traditional university degree. This experience would help me make that choice based on what the work actually consists off and not from what I've read online.
 
-Speaking with current apprentices would be especially valuable. I'd like to understand how much responsibility they are given, how they balance work and study, and how their careers have developed since joining Rolls-Royce.
+Speaking with current apprentices would be especially valuable. I'd like to understand how much responsibility they are given, how they balance work and study, and how their careers have developed since joining Rolls-Royce. 
 
 Their answers would directly shape which applications I prioritize next year.
-Whichever route I choose, this experience would make me a stronger candidate.
+Whichever route I choose, this experience would make me a stronger candidate. 
 Having seen how Rolls-Royce designs, tests and builds its products, I could talk about engineering from first hand experience in applications and interviews. The advice sessions on applying for future Rolls-Royce opportunities would also show me exactly what the company looks for.
 
 It would feed straight back into my current projects too, my CREST Gold quadcopter and EPQ would benefit from what I learn about testing and design processes.
 
-Ultimately, I'd like this experience to be a stepping stone towards a future apprenticeship at Rolls-Royce.
+Ultimately, I’d like this experience to be a stepping stone towards a future apprenticeship at Rolls-Royce.
